@@ -1,0 +1,34 @@
+{
+    "colors": [
+        {
+            "title": "$COLOR_DARK",
+            "background": "#000"
+        },
+        {
+            "title": "$COLOR_LIGHT",
+            "background": "#fff"
+        },
+        {
+            "title": "$COLOR_1",
+            "background": "#0923fb"
+        },
+        {
+            "title": "$COLOR_2",
+            "background": "#65ead8"
+        },
+        {
+            "title": "$COLOR_3",
+            "background": "#00aa5a"
+        },
+        {
+            "title": "$COLOR_4",
+            "background": "#ffd418"
+        }
+    ],
+    "grey": [
+
+    ],
+    "radius": [
+        
+    ]
+}
